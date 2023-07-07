@@ -1,0 +1,66 @@
+body{
+    font-family: 'Bacasime Antique', serif;
+}
+
+.navbar {
+    background-color: #EFE9F4;
+}
+
+#cabecalho .nav .nav-link.active{
+    background-color: #08B2E3;
+    color: #fff;
+}
+
+#cabecalho .nav .nav-link ,
+.navbar-brand,
+.navbar-brand:hover
+.nav-opcoes .nav-link.active.nav-link.active:hover {
+    color: #08B2E3;
+}
+
+.navbar-brand {
+    font-size: x-large;
+}
+
+.navbar-toggler{
+    background-color: #08B2E3;
+}
+
+.section-title{
+    font-family: 'Satisfy', cursive;
+}
+
+#sobre, #opcoes {
+    background-color: #EFE9F4;
+}
+
+.text-colored {
+    color: #08B2E3;
+}
+
+.nav-opcoes .nav-link.active,
+#fale-conosco button{
+    background-color: #08B2E3;
+    color: #fff
+}
+
+.nav-opcoes .nav-link:hover {
+    background-color: #08B2E3;
+    color: #fff;
+}
+
+.social-link li{
+    list-style: none;    
+    display: inline;
+}
+
+.social-link a{
+    text-decoration: none;
+}
+
+@media (max-width:767px){
+    .carousel-item img {
+        height: 280px;
+
+    }
+}
