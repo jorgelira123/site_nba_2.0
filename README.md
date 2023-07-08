@@ -1,5 +1,6 @@
 # site_nba_2.0
 Usados pelo bootstrap - cards, carousel, nav, sticky entre outras coisas
+Responsivo em celular e tablet
 
 # https://site-nba-2-0.vercel.app/
 

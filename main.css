@@ -64,3 +64,17 @@ body{
 
     }
 }
+
+@media screen and (min-width: 641px) and (max-width: 1023px) {    
+    .tab-pane .row {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+      }
+    
+      .tab-pane .col-md-3 {
+        flex-basis: 50%;
+        margin-bottom: 20px;
+        margin-top: 20px;
+      }
+  }
